@@ -1,0 +1,118 @@
+{
+   "list": [
+        {
+            "frst":"SL.NO",
+            "item":"NAME",
+            "qn":"QUANTITY",
+            "unit":"UNIT",
+            "depart":"DEPARTMENT",
+            "note":"NOTES",
+            "image":"ITEM"
+
+
+        },
+        {
+            "frst":"1",
+            "item":"sugar",
+            "qn":"1kg",
+            "unit":"1",
+            "depart":"grocery",
+            "note":"gud product",
+            "image":"sugar.jpg"
+        },
+        {
+
+            "frst":"2",
+            "item":"rice",
+            "qn":"5kg",
+            "unit":"2",
+            "depart":"grocery",
+            "note":"gud product",
+            "image":"rice.jpg"
+   
+        },
+        {
+            "frst":"3",
+            "item":"tomato",
+            "qn":"500g",
+            "unit":"5",
+            "depart":"vegetable",
+            "note":"gud product",
+            "image":"tomato.jpg"
+
+        },
+        {
+            "frst":"4",
+            "item":"tea powder",
+            "qn":"3kg",
+            "unit":"4",
+            "depart":"production",
+            "note":"gud product",
+            "image":"tea.jpg"
+
+        },
+        {
+            "frst":"5",
+            "item":"chilli powder",
+            "qn":"4kg",
+            "unit":"5",
+            "depart":"production",
+            "note":"gud product",
+            "image":"chilli.jpg"
+
+        },
+        {
+            "frst":"6",
+            "item":"salt",
+            "qn":"2kg",
+            "unit":"5",
+            "depart":"production",
+            "note":"gud product",
+            "image":"salt.jpg"
+
+        },
+        {
+            "frst":"7",
+            "item":"rava",
+            "qn":"1kg",
+            "unit":"2",
+            "depart":"production",
+            "note":"gud product",
+            "image":"rava.jpg"
+
+        },
+        {
+            "frst":"8",
+            "item":"oil",
+            "qn":"1l",
+            "unit":"1",
+            "depart":"production",
+            "note":"gud product",
+            "image":"oil.jpg"
+
+           
+        },
+        {
+            "frst":"9",
+            "item":"coconut oil",
+            "qn":"2l",
+            "unit":"1",
+            "depart":"production",
+            "note":"gud product",
+            "image":"oil2.jpg"
+
+           
+        },
+        {
+            "frst":"10",
+            "item":"coriander powder",
+            "qn":"1kg",
+            "unit":"1",
+            "depart":"production",
+            "note":"gud product",
+            "image":"coriander.jpg"
+
+        }
+
+    ]
+}

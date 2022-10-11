@@ -7,7 +7,7 @@
             "unit":"UNIT",
             "depart":"DEPARTMENT",
             "note":"NOTES",
-            "image":"ITEM"
+            "image":"grocerry.png"
 
 
         },
@@ -84,7 +84,7 @@
         {
             "frst":"8",
             "item":"oil",
-            "qn":"1l",
+            "qn":"1L",
             "unit":"1",
             "depart":"production",
             "note":"gud product",
@@ -95,7 +95,7 @@
         {
             "frst":"9",
             "item":"coconut oil",
-            "qn":"2l",
+            "qn":"2L",
             "unit":"1",
             "depart":"production",
             "note":"gud product",

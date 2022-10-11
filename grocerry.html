@@ -13,7 +13,7 @@
 </head>
 <style>
     #d1{
-        height: 780px;
+        height: 1250px;
         width: 100%;
         background-color: rgb(241, 248, 250);
         font-family: 'Be Vietnam Pro';font-size: 22px;
@@ -71,9 +71,6 @@ function generate(){
     
             var res=JSON.parse(this.responseText)
             var b=res.list
-            console.log(res)
-            console.log(b[1].no)
-            console.log(b[1].qn)
             var out=" "
             for( var i=0;i<b.length;i++){
                 out +="<tr><td>"+b[i].frst+"</td><td>"+b[i].item+"</td><td>"+"<img height='80px' width='150px' src="+b[i].image+">"+"</td><td>"+b[i].qn+"</td><td>"+b[i].unit+"</td><td>"+b[i].depart+"</td><td>"+b[i].note+"</td></tr>"
